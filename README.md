@@ -20,8 +20,7 @@ Using these references, the macro constructs the stair geometry along the define
 
 - Generate stairs from a **path** and a **closed sketch** (FreeCAD Sketch or Draft wire).  
 - Compatible with **straight**, **curved**, or **custom‑shaped** stair layouts.
-- **"Align"** option for handling orientation errors (choose `left` or `right`).  
-- Automatically adapts to changes in the defining path or sketch.  
+- **"Align"** option for handling orientation errors (choose `left` or `right`).
 - Works across **Part**, **Draft**, and **Arch** workbenches.
 
 ---
