@@ -112,7 +112,7 @@ Create a **pull request** or **issue** if you find bugs or have ideas for enhanc
 
 ## 📸 Example
 
-![Generated stair](<images/stai2.png>)
+![Generated stair](<images/stair2.png>)
 ![Generated stair1](<images/stair1.png>)
 ![Generated stair2](<images/stair4.png>)
 ![Generated stair3](<images/stair3.png>)
