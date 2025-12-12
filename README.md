@@ -112,6 +112,7 @@ Create a **pull request** or **issue** if you find bugs or have ideas for enhanc
 
 ## 📸 Example
 
-| Closed sketch and path | Generated parametric stairs |
-|------------------------|-----------------------------|
-| ![Input example](docs/path_sketch_example.png) | ![Generated stair](docs/generated_stair.png) |
+![Generated stair](<images/Pasted Layer #2.png>)
+![Generated stair1](<images/Pasted Layer #3.png>)
+![Generated stair1](<images/Pasted Layer #4.png>)
+![Generated stair1](<images/Pasted Layer #1.png>)
