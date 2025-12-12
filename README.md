@@ -12,13 +12,7 @@ The macro automates stair generation by combining two key inputs:
 
 Using these references, the macro constructs the stair geometry along the defined path, using the shape of the closed sketch as the stair’s cross‑section.
 
----
-
-## 📸 Preview
-
-A simple curved stair generated from a closed sketch and path:
-
-![Curved stair example](images/Pasted Layer.png)
+![Stairs example](images/Pasted_Layer.png)
 
 ---
 
