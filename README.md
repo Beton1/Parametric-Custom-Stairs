@@ -82,11 +82,9 @@ This macro was developed with active feedback from the FreeCAD community. It has
 > "I tried your Macro and I can say it's cool stuff. Compliments to you and thank you for picking up this challenge."  
 > — *FreeCAD Forum User*
 
-> "Excellent! I just tried your amazing work :D I tested different types of the stairs...but as you already know, it takes some time to build them. For the rest, everything worked fine and without any major problem."  
-> — *Community Member*
+> "Excellent! I just tried your amazing work :D I tested different types of the stairs...but as you already know, it takes some time to build them. For the rest, everything worked fine and without any major problem."
 
-> "Today I used your macro to model an oval stair. Amazing stuff! :D"  
-> — *Community Member*
+> "Today I used your macro to model an oval stair. Amazing stuff! :D"
 
 [View the full discussion thread on the FreeCAD Forum →](https://forum.freecad.org/viewtopic.php?t=58317)
 
