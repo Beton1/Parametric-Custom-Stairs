@@ -112,7 +112,7 @@ Create a **pull request** or **issue** if you find bugs or have ideas for enhanc
 
 ## 📸 Example
 
-![Generated stair](<images/Pasted Layer#2.png>)
-![Generated stair1](<images/Pasted Layer#3.png>)
-![Generated stair1](<images/Pasted Layer#4.png>)
-![Generated stair1](<images/Pasted Layer#1.png>)
+![Generated stair](<images/Pasted Layer #2.png>)
+![Generated stair1](<images/Pasted Layer #3.png>)
+![Generated stair2](<images/Pasted Layer #4.png>)
+![Generated stair3](<images/Pasted Layer #1.png>)
